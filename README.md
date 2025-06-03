@@ -28,8 +28,8 @@ I'm an undergraduate Computer Science student based in Khulna, Bangladesh. I’m
 Feel free to reach out:
 
 - 📧 Email: [aqibjawwad2607@gmail.com]
-- 🌐 Location: Khulna, Bangladesh
-- 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/aqib-jawwad-nahin-598288278/)]
+- 🌐 Location: Sonadanga, Khulna, Bangladesh
+- 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/aqib-jawwad-nahin-598288278/)
 
 ## 📄 License
 
